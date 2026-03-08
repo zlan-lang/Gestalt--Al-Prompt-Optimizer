@@ -1,6 +1,6 @@
 # Gestalt Chrome Extension
 
-Gestalt - AI Intention 编译器 Chrome 插件版本
+Gestalt - AI Intent 编译器 Chrome 插件版本
 
 ## 功能特性
 
@@ -95,4 +95,5 @@ chrome-extension/
 - API Key 仅保存在本地浏览器中
 - 需要网络访问才能调用 AI API
 - 支持的 AI：ModelScope、DeepSeek、OpenAI、Ollama
+
 
